@@ -1,18 +1,17 @@
-/*  your css code here. If applicable */
-body{
-	background-color:rgb(135, 206, 235);
-}
+ :root {
+      background-color: rgb(135, 206, 235);
+    }
 
-p:first-child{
+div p:first-child{
 	color:white;
 	background-color:black;
 }
 
-p:nth-child(2){
+div p:nth-child(2){
 	
 }
 
-p:last-child{
+div p:last-child{
 	color:red;
 }
 
